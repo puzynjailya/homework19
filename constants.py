@@ -1,0 +1,5 @@
+PWD_HASH_SALT = b'H311oWor1D!'
+PWD_HASH_ITERATIONS = 100_000
+api_prefix = '/api'
+JWT_ALGO = 'HS256'
+SECRET = '249y823r9v8238r9u'
